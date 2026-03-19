@@ -13,6 +13,7 @@ O argumento central é que pensar apenas em agentes individuais não é suficien
 ---
 
 ## 1. Dimensão do agente
+![agent image](assets/agent_image.png)
 
 Essa dimensão trata os agentes como entidades autônomas, capazes de:
 
@@ -27,14 +28,14 @@ Os conceitos mais importantes são:
 - **beliefs**: o que o agente sabe ou acredita;
 - **goals**: os objetivos que deseja alcançar;
 - **actions**: as ações que pode executar.
-![[agent_image.png|323]]
 ### Ideia principal
 O agente não é apenas um componente de software reativo. Ele possui **autonomia** e algum grau de **racionalidade prática**, escolhendo o que fazer de acordo com seus objetivos e percepções.
 
 ---
 
 ## 2. Dimensão do ambiente
-![[enviroment_image.png|491]]
+![enviroment image](assets/enviroment_image.png)
+
 
 O capítulo destaca que o ambiente não deve ser tratado como um pano de fundo passivo. Em MAOP, ele é uma entidade de primeira classe, responsável por oferecer:
 
@@ -53,7 +54,7 @@ Os conceitos mais relevantes são:
 ---
 
 ## 3. Dimensão da organização
-![[organization_image.png|306]]
+![organization image](assets/organization_image.png)
 
 A terceira dimensão trata da estrutura social do sistema. Em sistemas multiagentes, não basta ter entidades autônomas interagindo livremente; é preciso modelar como elas são coordenadas.
 
@@ -71,7 +72,8 @@ A organização fornece regras e estruturas que tornam possível o comportamento
 ---
 
 ## Integração entre as três dimensões
-![[3dimensions_image.png]]
+![three dimensions integration](assets/3dimensions_image.png)
+
 
 O ponto mais importante do capítulo é que MAOP deve integrar:
 
